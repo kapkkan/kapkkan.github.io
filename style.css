@@ -30,7 +30,7 @@ a {
 img {
     max-width: 100%;
     height: auto;
-    align-self: auto;
+
 }
 
 .b {
@@ -59,10 +59,17 @@ h5{
 }
 
 #vl{
-    width: 80px;
-    height: 60px;
-    margin-top: 1.75rem;
+    width: 100px;
+    height: 80px;
+    margin-top: 1rem;
     margin-left: 1rem;
+}
+
+#UNE{
+    width: 100px;
+    height: 80px;
+    margin-top: 1rem;
+    margin-left: 0.3rem;
 }
        
 .colorvalor{
@@ -85,7 +92,7 @@ body{
 }
 
 section{
-    padding-top: 2rem;
+    padding-top: 1rem;
     width: 80%;
     margin: auto;
 }
@@ -107,11 +114,11 @@ details summary::-webkit-details-marker {
 }
 details summary {
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 0.01rem 0;
     border-top: 1px solid black;
     position: relative;
     cursor: pointer;
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-weight: 300;
     list-style: none;
     align-items: center;
@@ -143,3 +150,4 @@ details p{
     margin: 0 0 1rem;
     padding-top: 1rem;
 }
+
