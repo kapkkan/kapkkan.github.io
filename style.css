@@ -38,6 +38,7 @@ img {
         
     }
 
+    
 h3{
     font-size: 48px;
 }
@@ -46,6 +47,7 @@ h4{
     font-size: 30px;
     margin-top: -30px;
     margin-left: 38px;
+    
 }
 
 h5{
@@ -67,13 +69,38 @@ h5{
     margin-top: 1rem;
     margin-left: 0.3rem;
 }
-       
+
+#CABAL{
+    width: 120px;
+    height: 100px;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+     
+#PROSPERIDAD{
+    width: 120px;
+    height: 100px;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
 .colorvalor{
     background-color: rgba(132, 235, 235, 0.968);
 }
 
 .colorune{
     background-color: rgb(111, 216, 102);
+}
+
+.colorcabal{
+    background-color: rgba(112, 191, 240, 0.968);
+}
+
+.colorune{
+    background-color: rgb(111, 216, 102);
+}
+
+.colorprosperidad{
+    background-color: rgb(212, 235, 123);
 }
 html,
 .root{
@@ -148,4 +175,3 @@ details p{
     margin: 0 0 1rem;
     padding-top: 1rem;
 }
-
